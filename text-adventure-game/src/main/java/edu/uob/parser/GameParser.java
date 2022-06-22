@@ -180,11 +180,4 @@ public class GameParser {
             }
         }
     }
-
-
-
-
-
-
-
 }
